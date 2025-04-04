@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java, Spring boot, JUnit, Docker, AWS, and more**
 
-- 💻 [MY PORTPOLIO WEBSITE](https://changi1122.studio1122.net/)
+- 💻 [MY PORTFOLIO WEBSITE](https://changi1122.studio1122.net/)
 
 - 👨‍💻 All of my projects are available at [Projects](https://changi1122.studio1122.net/project)
 
