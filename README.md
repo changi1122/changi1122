@@ -22,7 +22,9 @@
 
 <br>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=changi1122&show_icons=true&locale=en&layout=compact" alt="changi1122" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=changi1122&show_icons=true" alt="Woochang Lee's GitHub stats" />
-</p>
+<!--
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=changi1122&show_icons=true&locale=en&layout=compact" alt="changi1122" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=changi1122&show_icons=true" alt="Woochang Lee's GitHub stats" />
+  </p>
+-->
