@@ -10,7 +10,7 @@
 ### Backend developer
 
 
-- 🌱 I’m currently learning **Java, Spring boot, JUnit, Docker, AWS, and more**
+- 🌱 I’m currently deep diving into **Java, Spring boot, JUnit, Docker, AWS, and more**
 
 - 💻 [MY PORTFOLIO WEBSITE](https://changi1122.studio1122.net/)
 
