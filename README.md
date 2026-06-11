@@ -9,8 +9,9 @@
 
 ### Backend developer
 
+- 🏢 I am currently working on **data quality management, data governance, and database systems**.
 
-- 🌱 I’m currently deep diving into **Java, Spring boot, JUnit, Docker, AWS, and more**
+- 🌱 Expanding my expertise in **Java, Spring Boot, JUnit, Docker, and backend engineering**.
 
 - 💻 [MY PORTFOLIO WEBSITE](https://changi1122.studio1122.net/)
 
