@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
 
-### Backend developer
+### Software developer
 
 - 🏢 I am currently working on **data quality management, data governance, and database systems**.
 
